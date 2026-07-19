@@ -1,2 +1,2 @@
 # Programming-Test-System
-A Python-based Programming Quiz System that allows users to take Python, Java, and DSA quizzes, calculates scores automatically, and sends the final result directly to the user's email using SMTP.
+Programming Quiz System is a command-line application built in Python where users can take quizzes on Python, Java, and Data Structures & Algorithms (DSA). The application evaluates answers, calculates the final score, and automatically sends the result to the user's email using Gmail SMTP
